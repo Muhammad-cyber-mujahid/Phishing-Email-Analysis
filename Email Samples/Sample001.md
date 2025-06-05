@@ -7,6 +7,9 @@ Below is the phishing email analysis of this email with provided screenshot
 
 ![Image Alt](Email Samples/Images/Sample1/MailOverview.png)
 
+![Image Alt](Images/Sample1/MailOverview.png)
+
+
 1. Header Analysis
 
 From: kundklubb@bergqvistskor.se
