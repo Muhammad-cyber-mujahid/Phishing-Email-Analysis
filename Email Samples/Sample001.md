@@ -92,6 +92,7 @@ VirusTotal: 0/90 detections but not being flagged yet doesn’t make it safe. Th
 Conclusion
 
 This is a targeted phishing attempt built around urgency and fear. The signs include:
+
 •       Suspicious and unrelated sender domain
 •	Sketchy return-path
 •	Missing reverse DNS
