@@ -5,6 +5,8 @@ The message also includes a link for what it calls a manual upgrade and sets a d
 
 Below is the phishing email analysis of this email with provided screenshot
 
+![Image Alt](Email Samples/Images/Sample1/MailOverview.png)
+
 1. Header Analysis
 
 From: kundklubb@bergqvistskor.se
