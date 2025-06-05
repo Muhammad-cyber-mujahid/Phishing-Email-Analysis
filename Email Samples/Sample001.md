@@ -14,8 +14,8 @@ E-mail Analysis
 From: kundklubb@bergqvistskor.se
 The email claims to be from MetaMask, but the domain in this email address is bergqvistskor.se, which is completely unrelated to MetaMask. In fact, the domain name belongs to a Swedish shoe company,not a cryptocurrency wallet provider.
 
-![Image Alt](Images/Sample1/header analysis 1.png)
-Email Samples/Images/Sample1/header analysis 1.png
+![Header Analysis](Images/Sample1/header-analysis-1.png)
+
 
  
 Return-Path:
