@@ -14,7 +14,6 @@ E-mail Analysis
 From: kundklubb@bergqvistskor.se
 The email claims to be from MetaMask, but the domain in this email address is bergqvistskor.se, which is completely unrelated to MetaMask. In fact, the domain name belongs to a Swedish shoe company,not a cryptocurrency wallet provider.
 
-![Header Analysis](Images/Sample1/header-analysis-1.png)
 
 ![Header Analysis](Images/Sample1/header%20analysis%201.png)
 
@@ -23,19 +22,19 @@ The email claims to be from MetaMask, but the domain in this email address is be
 Return-Path:
 3fd.c.1839669377.J151728001-32676916@bergqvistskor.anpdm.com , this return path is from a marketing platform (anpdm), not MetaMask or anything crypto-related. This mismatch is a common phishing trick.
 
-![Image Alt]Images/Sample1/Return Path 1.png)
+![Image Alt](Images/Sample1/Return%20Path%201.png)
  
 Originating IP:
 91.227.208.160 , even though it passed SPF, it has no reverse DNS (rDNS), meaning the IP isn't tied to a verified domain. This is unusual for trusted services and is common with suspicious senders.
 
 
-![Image Alt]Images/Sample1/Originating IP 1.png)	
+![Image Alt](Images/Sample1/Originating%20IP%201.png)	
 
 
 
 Email Security
 
-![Image Alt]Images/Sample1/Email Security 1.png)
+![Image Alt](Images/Sample1/Email%20Security%201.png)
 
  
 SPF: Pass
@@ -62,7 +61,7 @@ Real service providers don’t make high-stakes warnings like this over emails, 
  
 
 
-![Image Alt]Images/Sample1/Content of Mail 1.png)
+![Image Alt](Images/Sample1/Content%20of%20Mail%201.png)
 
 
 
@@ -75,10 +74,10 @@ Path: Long and obfuscated, commonly used for hiding redirection or phishing page
 VirusTotal: 0/90 detections but not being flagged yet doesn’t make it safe. The setup and length are typical for tracking or malicious redirect.
 
 
-![Image Alt]Images/Sample1/Attachment Link 1.png)
+![Image Alt](Images/Sample1/Attachment%20Link%201.png)
+
 
  
-
  4. Behaviour and Visuals
 
 	It poses as MetaMask but sent from an unrelated domain.
@@ -86,7 +85,8 @@ VirusTotal: 0/90 detections but not being flagged yet doesn’t make it safe. Th
 	It also contains a dramatic cryptocurrency warning image with a wolf and danger sign, to build more tension.
         Includes a click here link, which is their main trick to get you to act.
 
-    ![Image Alt]Images/Sample1/Behaviour and Visuals 1.png)
+    ![Image Alt](Images/Sample1/Behaviour%20and%20Visuals%201.png)
+
 
 
 Conclusion
