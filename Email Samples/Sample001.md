@@ -16,6 +16,8 @@ The email claims to be from MetaMask, but the domain in this email address is be
 
 ![Header Analysis](Images/Sample1/header-analysis-1.png)
 
+![Header Analysis](Images/Sample1/header%20analysis%201.png)
+
 
  
 Return-Path:
