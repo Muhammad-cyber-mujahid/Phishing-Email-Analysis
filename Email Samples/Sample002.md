@@ -1,9 +1,8 @@
-
-
 Subject: YOUR $2.500,000.00
 
 This email pretends to be from Jeff Bezos, impersonating the founder of Amazon.com. The goal is to trick recipients into believing they’ve won a massive cash prize. It’s a plain-text phishing lure, and the sender uses a free Gmail account, clearly not affiliated with Amazon. The absence of Amazon branding and the generic tone show this is a low-effort mass phishing attempt.
- 
+
+![Alt text](Images/Sample2/MailOverview2.png) 
 
 1. Header Analysis
 
