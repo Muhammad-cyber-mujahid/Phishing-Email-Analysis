@@ -106,7 +106,7 @@ Red Flags Summary:
 •	Free Gmail sender and reply-to addresses
 •	Pretends to be Jeff Bezos with no verification or branding
 •	Poorly written, no personalization
-•	No SPF/DKIM/DMARC from any real Amazon domain
+•	No SPF/DKIM/DMARC from any real Amazon domaing
 •	Includes amazon.com as a false trust signal
 •	Message promises millions — a classic fraud tactic
 •	Plain text, no visual authenticity
