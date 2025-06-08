@@ -1,9 +1,8 @@
-
-
 Subject: YOUR $2.500,000.00
 
 This email pretends to be from Jeff Bezos, impersonating the founder of Amazon.com. The goal is to trick recipients into believing they’ve won a massive cash prize. It’s a plain-text phishing lure, and the sender uses a free Gmail account, clearly not affiliated with Amazon. The absence of Amazon branding and the generic tone show this is a low-effort mass phishing attempt.
- 
+
+![Alt text](Images/Sample2/MailOverview2.png) 
 
 1. Header Analysis
 
@@ -14,9 +13,7 @@ Display Name:
 MR. JEFFREY BEZOS
 Using a well-known name to appear credible. This is basic impersonation, as no business would send millions using this display method.
  
-
-
-
+![Alt text](Images/Sample2/DisplayName2.png)
 
 Return-Path: edmondasiimwe0@gmail.com
 Same as the sender, This confirms this came from a personal Gmail account, not an organization.
@@ -24,15 +21,20 @@ Same as the sender, This confirms this came from a personal Gmail account, not a
 Reply-To: mrjeffreyprestonbezos07@gmail.com
 Another Gmail address, even more suspicious. Phishers often use a Reply-To address to direct replies away from detection.
  
+![Alt text](Images/Sample2/Reply-To2.png)
 
 Originating IP:  209.85.208.169
 This is a Google mail server (rDNS: mail-lj1-f169.google.com). Nothing suspicious on its own, but irrelevant since Gmail allows abuse by phishers using free accounts.
 rDNS:
 mail-lj1-f169.google.com
 This matches Google — further confirming this was sent using Gmail’s infrastructure.
-  
+
+
+![Alt text](Images/Sample2/OriginatingIp.png)  
 
 Email Security:
+
+![Alt text](Images/Sample2/EMAILSECURITY2.png)  
 
  
 •	SPF:  Pass
@@ -68,17 +70,13 @@ Mr Jeffrey Preston Bezos
 •	Unbelievable claim: Winning millions from Jeff Bezos without entering any contest.
 •	Suspicious contact address: Another Gmail account is used to “confirm” your win.
 •	No formal structure: No Amazon branding, footer, or even proper formatting.
-•	Emotional bait: Uses the "free money" angle to excite and lower your guard.
-
-
-
-
-
-
+•	Emotional bait: Uses the "free money" angle to excite and lower your guard
 
 
 
 3. Attachment / Link
+
+   ![Alt text](Images/Sample2/AttachmentLink2.png)  
  
 •	Attachment: None
 •	URL in Message: http://amazon.com
@@ -91,6 +89,8 @@ o	VirusTotal: 0/94 — No detection, but that’s irrelevant here as this link s
 This technique is called brand laundering — using a known domain to build trust, while interaction is redirected to a Gmail address.
 
 4. Behaviour and Visuals
+   
+![Alt text](Images/Sample2/BehaviourandVisuals2.png) 
  
 •	Plain-text message, no Amazon logos, no headers and no styling.
 •	Impersonation of Jeff Bezos using fake Gmail addresses.
